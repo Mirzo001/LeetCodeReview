@@ -1,4 +1,4 @@
-
+#
 # def twoSum(nums: List, target):
 #         myHash = {}
 #         for index, value in enumerate(nums):
@@ -19,3 +19,4 @@ def twoSum(nums, target):
             else:
                 return [h[n], i]
 print(twoSum(nums=List, target=9))
+
